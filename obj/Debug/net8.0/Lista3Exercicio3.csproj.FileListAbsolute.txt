@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\bin\Debug\net8.0\Lista3Exercicio3.exe
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\bin\Debug\net8.0\Lista3Exercicio3.deps.json
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\bin\Debug\net8.0\Lista3Exercicio3.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\bin\Debug\net8.0\Lista3Exercicio3.dll
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\bin\Debug\net8.0\Lista3Exercicio3.pdb
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.dll
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\refint\Lista3Exercicio3.dll
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.pdb
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\Lista3Exercicio3.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\Lista3Exercicio3\Lista3Exercicio3\obj\Debug\net8.0\ref\Lista3Exercicio3.dll
